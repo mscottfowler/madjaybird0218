@@ -6,7 +6,7 @@ Link: [Madjaybird-0218 Remote Repository] [1]
 
 This is the repository for the website of Scott Fowler - UX Designer / Frontend Developer.
 
-![In Line Online Landing Page][photo-01]
+![In Line Online Landing Page](https://www.madjaybird.com/assets/git-images/madjaybird-home.png "Example Madjaybird Home Page Photo")
 Example Madjaybird Home Page
 
 ### Included Pages
@@ -39,4 +39,4 @@ Example Madjaybird Home Page
 
 [1]: https://github.com/mscottfowler/madjaybird0218.git
 [2]:
-[photo-01]: https://www.madjaybird.com/assets/git-images/madjaybird-home.png "Madjaybird Home Page" width="400px"
+[photo-01]:  "Madjaybird Home Page" width="400px"
