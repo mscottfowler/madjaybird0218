@@ -1,6 +1,6 @@
 # Madjaybird-0218 #
 
-Link: [Madjaybird-0218 Remote Repository] [1]
+[Github Link:] (https://github.com/mscottfowler/madjaybird0218.git)
 
 ### Welcome to the Madjaybird Remote Repository.
 
@@ -36,7 +36,3 @@ Example Madjaybird Home Page
 ### Who do I talk to? ###
 
 **Repo Admin:** Scott Fowler [scott@madjaybird.com](mailto:scott@madjaybird.com)
-
-[1]: https://github.com/mscottfowler/madjaybird0218.git
-[2]:
-[photo-01]:  "Madjaybird Home Page" width="400px"
