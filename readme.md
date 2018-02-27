@@ -1,6 +1,6 @@
 # Madjaybird-0218 #
 
-[Github Link:] (https://github.com/mscottfowler/madjaybird0218.git)
+Github link: <https://github.com/mscottfowler/madjaybird0218.git>
 
 ### Welcome to the Madjaybird Remote Repository.
 
